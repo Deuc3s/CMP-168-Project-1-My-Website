@@ -1,4 +1,5 @@
-# CMP-168-Project-1-My-Website
+# CMP-168-Project-1-My-Website - Juan Brea
+ 
 
 Hello everyone!
 This is my project for the class of CMP 128 taught by Professor Steven Fulakeza.
