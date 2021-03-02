@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    font-family:cursive;
+}
+
+h2{
+    font-family:cursive;
+}
+
+ #jobs{
+     font-family: cursive;
+ }
+
+#foods{
+    font-family: cursive;
+}
+
+#countries{
+    font-family: cursive;
+}
+
+#Email{
+    font-family: cursive;
+}
+
+.navbar {
+    overflow:hidden;
+    background-color: #333;
+    position: none;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+.main {
+    padding: 16px;
+}
+
+#lehman{
+    text-align:right;
+    height: 260px;
+}
