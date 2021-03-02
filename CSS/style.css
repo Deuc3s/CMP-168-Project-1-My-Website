@@ -29,6 +29,7 @@ h2{
     position: none;
     top: 0;
     width: 100%;
+    padding-inline: 200px;
 }
 
 .navbar a {
@@ -47,10 +48,15 @@ h2{
 }
 
 .main {
-    padding: 16px;
+    padding-inline: 200px;
+    overflow: hidden;
 }
 
 #lehman{
     text-align:right;
     height: 260px;
+}
+
+#Phone{
+    font-family: cursive;
 }
